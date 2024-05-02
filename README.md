@@ -1,4 +1,11 @@
 # Create T3 App
+- this repo is clone of create t3 app, all the credits belong to t3. 
+
+## updated features
+
+- [ ] tRPC latest
+- [ ] eslint lastest
+- [ ] fixed bugs
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
